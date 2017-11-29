@@ -1,6 +1,6 @@
 CS2103 revision notes
 
-= week 2
+=week 2
 
 == Revision Control Software (RCS) 
 is the process of managing multiple versions of a piece of information. (Git)
